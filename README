@@ -1,0 +1,7 @@
+echo "# IBM-Project-28487-1660112848" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/IBM-EPBL/IBM-Project-28487-1660112848.git
+git push -u origin main
