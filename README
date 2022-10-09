@@ -1,7 +1,14 @@
-echo "# IBM-Project-28487-1660112848" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/IBM-EPBL/IBM-Project-28487-1660112848.git
-git push -u origin main
+# IBM-Project-28487-1660112848
+Personal Expense Tracker
+### Personal Expense Tracker
+
+## Team members 
+
+#### Team Lead - Akash Gently Samuel K
+#### M1 Lead   - Ajay Ganesh R T
+#### M2 Lead   - Elfin Rejo
+#### M3 Lead   - Deepak Sundar
+##### Team Lead - Akash Gently Samuel K
+##### M1 Lead   - Ajay Ganesh R T
+##### M2 Lead   - Elfin Rejo
+##### M3 Lead   - Deepak Sundar
